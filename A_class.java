@@ -18,6 +18,8 @@ public class A_class {
 	{
 		System.out.println("k loop output");
 	}
+		
+		System.out.println("shilpa");
 
 }
 }
